@@ -15,8 +15,11 @@
 ## Project Overview
 
 **Project Title**: Global Superstore
+
 **Author**: Dominik Szczepkowski  
+
 **Database**: `Dataset - global_superstore_2016.xlxs`
+
 **Dashboard Demo**: 📸 
 <details>
 <summary>Click to view Power BI dashboard animation</summary>
