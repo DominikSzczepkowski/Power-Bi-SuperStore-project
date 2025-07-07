@@ -21,10 +21,10 @@
 **Database**: `Dataset - global_superstore_2016.xlxs`
 
 **Dashboard Demo**: 📸 
-<details>
-<summary>Click to view Power BI dashboard animation</summary>
+
+
 [Power BI Dashboard Animation] <a href="https://gifyu.com/image/bxfRZ"><img src="https://s14.gifyu.com/images/bxfRZ.gif" alt="Nagrywanie2025 06 10114217 ezgif.com video to gif converter" border="0" /></a>
-</details>
+
 
   
 
